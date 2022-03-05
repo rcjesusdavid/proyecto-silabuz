@@ -1,0 +1,303 @@
+[
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150101",
+      "nombre": "Lima"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150102",
+      "nombre": "Ancón"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150103",
+      "nombre": "Ate"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150104",
+      "nombre": "Barranco"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150105",
+      "nombre": "Breña"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150106",
+      "nombre": "Carabayllo"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150107",
+      "nombre": "Chaclacayo"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150108",
+      "nombre": "Chorillos"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150109",
+      "nombre": "Cieneguilla"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150110",
+      "nombre": "Comas"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150111",
+      "nombre": "El Agustino"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150112",
+      "nombre": "Independencia"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150113",
+      "nombre": "Jesús María"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150114",
+      "nombre": "La Molina"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150115",
+      "nombre": "La Victoria"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150116",
+      "nombre": "Lince"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150117",
+      "nombre": "Los Olivos"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150118",
+      "nombre": "Lurigancho-Chosica"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150119",
+      "nombre": "Lurin"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150120",
+      "nombre": "Magdalena del Mar"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150121",
+      "nombre": "Miraflores"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150122",
+      "nombre": "Pueblo Libre"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150123",
+      "nombre": "Pachacámac"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150124",
+      "nombre": "Pucusana"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150125",
+      "nombre": "Puente Piedra"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150126",
+      "nombre": "Punta Hermosa"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150127",
+      "nombre": "Punta Negra"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150128",
+      "nombre": "Rímac"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150129",
+      "nombre": "San Bartolo"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150130",
+      "nombre": "San Borja"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150131",
+      "nombre": "San Isidro"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150132",
+      "nombre": "San Juan de Lurigancho"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150133",
+      "nombre": "San Juan de Miraflores"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150134",
+      "nombre": "San Luis"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150135",
+      "nombre": "San Martín de Porres"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150136",
+      "nombre": "San Miguel"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150137",
+      "nombre": "Santa Anita"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150138",
+      "nombre": "Santa María del Mar"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150139",
+      "nombre": "Santa Rosa"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150140",
+      "nombre": "Santiago de Surco"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150141",
+      "nombre": "Surquillo"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150142",
+      "nombre": "Villa El Salvador"
+    }
+  },
+  {
+    "model": "commons.distritoslima",
+    "fields": {
+      "ubigeo": "150143",
+      "nombre": "Villa María del Triunfo"
+    }
+  }
+]
