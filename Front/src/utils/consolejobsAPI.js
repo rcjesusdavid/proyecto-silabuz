@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const CJOBS_API = axios.create({
-  baseURL: "http://127.0.0.1:8000/",
+  baseURL: "https://app-console-jobs.herokuapp.com/api",
 });
 
 export default CJOBS_API;

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -49,7 +50,14 @@ const Footer = () => {
                 <h4 className="widget_title">Ver candidatos</h4>
                 <ul className="footer-menu">
                   <li>
-                    <a href="#">Explorar Candidatos</a>
+                    <a href="#">
+                      <i class="lni lni-cogs"></i> Explorar Candidatos
+                    </a>
+                  </li>
+                  <li>
+                    <Link to="/postulant-public-profile">
+                      <i class="lni lni-cogs"></i> Perfil Publico
+                    </Link>
                   </li>
                 </ul>
               </div>
@@ -59,10 +67,14 @@ const Footer = () => {
                 <h4 className="widget_title">Ver empresas</h4>
                 <ul className="footer-menu">
                   <li>
-                    <a href="#">Explorar empresas</a>
+                    <a href="#">
+                      <i class="lni lni-cogs"></i> Explorar empresas
+                    </a>
                   </li>
                   <li>
-                    <a href="#">Explorar Ofertas</a>
+                    <Link to="/company-public-profile">
+                      <i class="lni lni-cogs"></i> Perfil Publico
+                    </Link>
                   </li>
                 </ul>
               </div>
@@ -73,9 +85,6 @@ const Footer = () => {
                 <ul className="footer-menu">
                   <li>
                     <a href="#">¿Quienes somos?</a>
-                  </li>
-                  <li>
-                    <a href="#">Nuestra Mision</a>
                   </li>
                 </ul>
               </div>
